@@ -8,6 +8,7 @@
 - toFixed()
 
 ## GitHub Pages Link
+https://romanpama1-debug.github.io/HW9/
 
 ## Screenshot
 (screenshot.png)
